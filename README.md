@@ -16,7 +16,7 @@ WordPress | Elementor | Astra | PHP | CSS | MySQL
 ## 📸 Screenshots
 | Homepage | Services | Contact |
 |-----------|-----------|----------|
-| ![Homepage](screenshots/home.png) | ![Services](screenshots/services.png) | ![Portfolio](screenshots/portfolio.png) |
+| ![Homepage](screenshots/home.png) | ![Services](screenshots/services.png) | ![Portfolio](screenshots/portfolio.png) | ![Privacy](screenshots/privacy.png) |
 
 ## 🗄 Database
 If needed, import the included bizconnect_db.sql into your WordPress database.
@@ -33,4 +33,5 @@ This site was designed as part of my *WordPress portfolio* to demonstrate my ski
 
 ### 👩‍💻 Created by
 *Fatima* – Web & WordPress Developer  
+
 
